@@ -1,6 +1,6 @@
 # hello-world
 
-Hello Friend,
+Hello Humans,
 
 My name is Altaf. I am new to learning front end web dev and am striving to become a full stack developer.
 Currently learning through FreeCodeCamp circulum and TheOdinProject.
